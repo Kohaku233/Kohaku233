@@ -14,7 +14,7 @@
 
 - 📫 **Reach me** :  
 
-  - **QQ &** : 1462617933
+  - **QQ** : 1462617933
   - **E-mail** : z2427503528@gmail.com
 
 [![redpill's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohaku233&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
