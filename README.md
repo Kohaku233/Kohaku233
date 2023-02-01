@@ -12,9 +12,5 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-%23007ACC.svg?style=for-the-badge&logo=vite&logoColor=white&color=8976ff)
 
-- 📫 **Reach me** :  
 
-  - **QQ** : 1462617933
-  - **E-mail** : z2427503528@gmail.com
 
-[![redpill's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohaku233&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
