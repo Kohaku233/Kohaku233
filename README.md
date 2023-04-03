@@ -1,4 +1,4 @@
 ### Hi there 👋Redpill is me!
 
-> A frontend developer from **nowhere**.
+> A software engineer from **nowhere**.
 
