@@ -1,4 +1,4 @@
-### Hi there 👋Redpill is me!
+### Hi there 👋Kohaku is me!
 
 > A software engineer from **nowhere**.
 
